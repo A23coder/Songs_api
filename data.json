@@ -1,0 +1,536 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Are Re Are",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Are Re Are Dil To Pagal Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Are Re Are.jpg"
+    },
+    {
+      "id": "2",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Bholi Si Surat",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Bholi Si Surat Dil To Pagal Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Bholi Si Surat.jpg"
+    },
+    {
+      "id": "3",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Chalte Chalte Yun Hi Koi",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Chalte Chalte Yun Hi Koi - Pakeezah (1972) - Meena Kumari, Kamal Kapoor - Lata Mangeshkar Hit Songs.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Chalte Chalte Yun Hi Koi.jpg"
+    },
+    {
+      "id": "4",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Dekha Ek Khwab",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Dekha Ek Khwab Song - Silsila - Amitabh Bachchan, Rekha - Kishore Kumar, Lata Mangeshkar, Shiv-Hari.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Dekha Ek Khwab.jpg"
+    },
+    {
+      "id": "5",
+      "singer_name": "Lata Mangeshkar, Udit Narayan",
+      "music_name": "Dholna",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Dholna Dil To Pagal Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Dholna.jpg"
+    },
+    {
+      "id": "6",
+      "singer_name": "Lata Mangeshkar, Udit Narayan",
+      "music_name": "Dil To Pagal Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Dil To Pagal Hai Lata Mangeshkar 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Dil To Pagal Hai.jpg"
+    },
+    {
+      "id": "7",
+      "singer_name": "Sonu Nigam, Lata Mangeshkar",
+      "music_name": "Do Pal",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Do Pal Veer Zaara 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Do Pal.jpg"
+    },
+    {
+      "id": "8",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Ek Duje Ke Vaaste",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Ek Duje Ke Vaaste Dil To Pagal Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Ek Duje Ke Vaaste.jpg"
+    },
+    {
+      "id": "9",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Hum Bhul Gaye Re Har Baat Magar Tera",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Hum Bhul Gaye Re Har Baat Magar Tera - Rekha - Souten Ki Beti - Old Hindi Songs HD - Lata Mangeshkar.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Hum Bhul.png"
+    },
+    {
+      "id": "10",
+      "singer_name": "Lata Mangeshkar, M.G.Sreekumar",
+      "music_name": "Jiya Jale",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Jiya Jale Dil Se 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Jiya Jale.jpg"
+    },
+    {
+      "id": "11",
+      "singer_name": "Lata Mangeshkar, Udit Narayan",
+      "music_name": "Koi Ladki Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Koi Ladki Hai Dil To Pagal Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Koi Ladki Hai.jpg"
+    },
+    {
+      "id": "12",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Lag Jaa Gale",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Lag Jaa Gale.jpg"
+    },
+    {
+      "id": "13",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Mere Naseeb Mein",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Mere Naseeb Mein HD Video Song - Naseeb - Amitabh - Hema Malini - Lata Mangeshkar.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Mere Naseeb Mein Tu Hai Ki Nahi.png"
+    },
+    {
+      "id": "14",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Pyar Kar",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Pyar Kar Dil To Pagal Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Pyar Kar.jpg"
+    },
+    {
+      "id": "15",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Salame Ishq Meri Jaan",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Salame Ishq Meri Jaan Muqaddar Ka Sikandar 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Salame Ishq Meri Jaan.jpg"
+    },
+    {
+      "id": "16",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Tera Mera Pyar Amar",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tera Mera Pyar Amar Asli Naqli 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tera Mera Pyar Amar.jpg"
+    },
+    {
+      "id": "17",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Tere Bina Jiya Jaye Na",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tere Bina Jiya Jaye Na Ghar 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tere Bina Jiya Jaye Na.jpg"
+    },
+    {
+      "id": "18",
+      "singer_name": "Lata Mangeshkar",
+      "music_name": "Ye Samaa Samaa Hai Pyar Ka",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Ye Samaa Samaa Hai Pyar Ka Jab Jab Phool Khile 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Ye Samaa Samaa Hai Pyar Ka.jpg"
+    },
+    {
+      "id": "19",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Aaj Pahli Baar Dil Ki Baat Ki Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Aaj Pahli Baar Dil Ki Baat Ki Hai - Kumar Sanu, Alka Yagnik - Tadipaar - Hindi Song.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Aaj Pahli Baar Dil Ki Baat Ki Hai.png"
+    },
+    {
+      "id": "20",
+      "singer_name": "Kumar Sanu",
+      "music_name": "Chand Se Parda Kijiye",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Chand Se Parda Kijiye - ❤️Love Song❤️ - Aao Pyaar Karen (1994) Kumar Sanu, Saif Ali Khan, Shilpa.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Chand Se Parda Kijiye.png"
+    },
+    {
+      "id": "21",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Deewana Main Tera Deewana",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Deewana Main Tera Deewana - Kumar Sanu, Alka Yagnik - English Babu Desi Mem - Shah Rukh Khan.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Deewana Main Tera Deewana.jpg"
+    },
+    {
+      "id": "22",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Dil Hai Tumhaara",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Dil Hai Tumhaara Alka Yagnik 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Dil Hai Tumhaara.jpg"
+    },
+    {
+      "id": "23",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Dil Ka Rishta",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Dil Ka Rishta Alka Yagnik 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Dil Ka Rishta.jpg"
+    },
+    {
+      "id": "24",
+      "singer_name": "Asha Bhosle, Kumar Sanu",
+      "music_name": "Hum Lakh Chupaye",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Hum Lakh Chupaye Jaan Tere Naam 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Hum Lakh Chupaye.jpg"
+    },
+    {
+      "id": "25",
+      "singer_name": "Kumar Sanu",
+      "music_name": "Is Tarah Aashiqui Ka",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/- Is Tarah Aashiqui Ka Asar Chod Jaunga - Imtihan- kumar shanu - sunny deol, Ravina tandan -.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Is Tarah.jpg"
+    },
+    {
+      "id": "26",
+      "singer_name": "Kumar Sanu, Sadhna Sargam",
+      "music_name": "Jab Koi Baat Bigad Jaye",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Jab Koi Baat Bigad Jaye Jurm 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Jab Koi Baat Bigad Jaye.png"
+    },
+    {
+      "id": "27",
+      "singer_name": "Kumar Sanu",
+      "music_name": "Kaash Kahin Aisa Hota",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Kaash Kahin Aisa Hota - LYRICAL - Akshay Kumar & Raveena Tandon - Mohra - 90s Best Romantic Sad Song.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Kaash Kahin Aisa Hota.jpg"
+    },
+    {
+      "id": "28",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Kasam Khake Kaho",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Kasam Khake Kaho Dil Hai Tumhaara 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Kasam Khake Kaho.png"
+    },
+    {
+      "id": "29",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Kash Koi Ladki",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Kash koi ladki mujhe pyar karti.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Kash koi ladki.png"
+    },
+    {
+      "id": "30",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Meri Mehbooba",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Meri Mehbooba Pardes 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Meri Mehbooba.jpg"
+    },
+    {
+      "id": "31",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Raah Mein Unse Mulaqat",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Raah Mein Unse Mulaqat - Vijaypath - Ajay Devgn, Tabu - Kumar Sanu, Alka Yagnik - 90's Hit Songs.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Raah Mein Unse Mulaqat.jpg"
+    },
+    {
+      "id": "32",
+      "singer_name": "Abhijeet, Alka Yagnik",
+      "music_name": "Tum Dil Ki Dhadkan Mein",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tum Dil Ki Dhadkan Mein Kumar Sanu 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tum Dil Ki Dhadkan Mein.png"
+    },
+    {
+      "id": "33",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Yeh Dil Aashiqana",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Yeh Dil Aashiqana Kumar Sanu 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Yeh Dil Aashiqana.jpg"
+    },
+    {
+      "id": "34",
+      "singer_name": "Kumar Sanu, Anu Malik",
+      "music_name": "Yeh Kaali Kaali Aankhen",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Yeh Kaali Kaali Aankhen - LYRICAL VIDEO - Shah Rukh Khan & Kajol - Baazigar - Ishtar Music.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Yeh Kaali Kaali Aankhen.jpg"
+    },
+    {
+      "id": "35",
+      "singer_name": "Udit Narayan",
+      "music_name": "Aa Gaya Aa Gaya",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Aa Gaya Aa Gaya Hum Tumhare Hain Sanam 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Aa Gaya Aa Gaya.jpg"
+    },
+    {
+      "id": "36",
+      "singer_name": "Udit Narayan",
+      "music_name": "Aaye Ho Meri Zindagi Mein",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Aaye Ho Meri Zindagi Mein Male Raja Hindustani 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Aaye Ho Meri Zindagi Mein.jpg"
+    },
+    {
+      "id": "37",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Chura Ke Dil Mera",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Chura Ke Dil Mera Main Khiladi Tu Anari 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Main Khiladi Tu Anari.jpg"
+    },
+    {
+      "id": "38",
+      "singer_name": "Alka Yagnik, Udit Narayan",
+      "music_name": "Aankh Teri Chhalke To",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Aankh Teri Chhalke To - Jhankar - Udit Narayan - Alka Yagnik - Raja (1995).mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Aankh Teri Chhalke To.jpg"
+    },
+    {
+      "id": "39",
+      "singer_name": "Udit Narayan, Shreya Ghosal",
+      "music_name": "Bheed Mein Tanhaee",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Bheed Mein Tanhaee Mein Tumsa Nahin Dekha A Love Story 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Bheed Mein Tanhaee.png"
+    },
+    {
+      "id": "40",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Bole Chudiyan",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Bole Chudiyan K3g 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Bole Chudiyan.jpg"
+    },
+    {
+      "id": "41",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Chand Ke Paar Chalo",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Chand Ke Paar Chalo Sad Alka Yagnik 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Chand Ke Paar Chalo.jpg"
+    },
+    {
+      "id": "42",
+      "singer_name": "Udit Narayan",
+      "music_name": "College Ki Ladkiyan",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/College Ki Ladkiyan Yeh Dil Aashiqana 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/College Ki Ladkiyan.jpg"
+    },
+    {
+      "id": "43",
+      "singer_name": "Udit Narayan",
+      "music_name": "Deewana Pooch Lega",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Deewana Pooch Lega Chand Ke Paar Chalo 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Chand Ke Paar Chalo.jpg"
+    },
+    {
+      "id": "44",
+      "singer_name": "Udit Narayan",
+      "music_name": "Ghoongte Mein Chanda",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Ghoongte Mein Chanda Koyla 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Ghoongte Mein Chanda.jpg"
+    },
+    {
+      "id": "45",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Kitna Pyaara Tujhe Rabne Banaya",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Kitna Pyaara Tujhe Rabne Banaya Raja Hindustani 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Kitna Pyaara Tujhe Rabne Banaya.png"
+    },
+    {
+      "id": "46",
+      "singer_name": "Abhijeet, Udit Narayan",
+      "music_name": "Main Khiladi Tu Anari",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Main Khiladi Tu Anari Anu Malik 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Main Khiladi Tu Anari.jpg"
+    },
+    {
+      "id": "47",
+      "singer_name": "Udit Narayan",
+      "music_name": "Main Nikla Gaddi Leke",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Main Nikla Gaddi Leke Gadar Ek Prem Katha 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Main Nikla Gaddi Leke.jpg"
+    },
+    {
+      "id": "48",
+      "singer_name": "Udit Narayan, Bhupinder Singh",
+      "music_name": "Mera Rang De Basanti Chola",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Mera Rang De Basanti Chola Shaheed 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Mera Rang De Basanti Chola.jpg"
+    },
+    {
+      "id": "49",
+      "singer_name": "Udit Narayan",
+      "music_name": "Mubarak Mubarak",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Mubarak Mubarak Haan Maine Bhi Pyaar Kiya 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Mubarak Mubarak.jpg"
+    },
+    {
+      "id": "50",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Mujhse Shaadi Karogi",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Mujhse Shaadi Karogi Sonu Nigam 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Mujhse Shaadi Karogi.jpg"
+    },
+    {
+      "id": "51",
+      "singer_name": "Udit Narayan, Alka Yagnik, Sapna Awasthi",
+      "music_name": "Pardesi Pardesi Jana Nahi",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Pardesi Pardesi Raja Hindustani 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Pardesi Pardesi.jpg"
+    },
+    {
+      "id": "52",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Tip Tip Barsa Paani",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tip Tip Barsa Paani Mohra 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tip Tip Barsa Paani.png"
+    },
+    {
+      "id": "53",
+      "singer_name": "Udit Narayan, Sadhana Sargam",
+      "music_name": "Pehla Nasha",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Pehla Nasha Jo Jeeta Wohi Sikandar 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Pehla Nasha.jpg"
+    },
+    {
+      "id": "54",
+      "singer_name": "Udit Narayan",
+      "music_name": "Shaam Bhi Khoob Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Shaam Bhi Khoob Hai HD Video Song - Karz - Alka Yagnik, Kumar Sanu & Udit Narayan - 90's Hit Songs.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Shaam Bhi Khoob Hai.jpg"
+    },
+    {
+      "id": "55",
+      "singer_name": "Udit Narayan, Poornima",
+      "music_name": "Sona Kitna Sona Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Sona Kitna Sona Hai Hero No. 1 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Sona Kitna Sona Hai.jpg"
+    },
+    {
+      "id": "56",
+      "singer_name": "Udit Narayan, Kavita Krishnamurthy",
+      "music_name": "Tu Cheez Badi Hai Mast",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tu Cheez Badi Hai Mast.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tu Cheez Badi Hai Mast.png"
+    },
+    {
+      "id": "57",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Tujhko Na Dekhun",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tujhko Na Dekhun Jaanwar 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tujhko Na Dekhun.jpg"
+    },
+    {
+      "id": "58",
+      "singer_name": "Udit Narayan, Anupama Deshpande",
+      "music_name": "Tum Mere Ho",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tum Mere Ho Udit Narayan 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tum Mere Ho.jpg"
+    },
+    {
+      "id": "59",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Udja Kale Kawan",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Udja Kale Kawan Gadar Ek Prem Katha 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Udja Kale Kawan.jpg"
+    },
+    {
+      "id": "60",
+      "singer_name": "Udit Narayan, Alka Yagnik",
+      "music_name": "Yeh Bandhan Toh",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Yeh Bandhan Toh Karan Arjun 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Yeh Bandhan Toh.jpg"
+    },
+    {
+      "id": "61",
+      "singer_name": "Alka Yagnik",
+      "music_name": "Aksar Is Duniya Mein",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Aksar Is Duniya Mein Dhadkan 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Aksar Is Duniya Mein.png"
+    },
+    {
+      "id": "62",
+      "singer_name": "Alka Yagnik",
+      "music_name": "Mujhse Shaadi Karogi",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Mujhse Shaadi Karogi Sonu Nigam 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Mujhse Shaadi Karogi.jpg"
+    },
+    {
+      "id": "63",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Chura Ke Dil Mera",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Chura Ke Dil Mera Main Khiladi Tu Anari 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Main Khiladi Tu Anari.jpg"
+    },
+    {
+      "id": "64",
+      "singer_name": "Alka Yagnik",
+      "music_name": "Daiya Daiya Daiya Re",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Daiya Daiya Daiya Re Dil Ka Rishta 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Daiya Daiya Daiya Re.jpg"
+    },
+    {
+      "id": "65",
+      "singer_name": "Alka Yagnik, Kumar Sanu",
+      "music_name": "Ek Dil Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Ek Dil Hai Ek Rishtaa 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Ek Dil.jpg"
+    },
+    {
+      "id": "66",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Hum Pyaar Hai Tumhare",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Hum Pyaar Hai Tumhare Haan Maine Bhi Pyaar Kiya 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Hum Pyaar Hai Tumhare.jpg"
+    },
+    {
+      "id": "67",
+      "singer_name": "Alka Yagnik, Kumar Sanu",
+      "music_name": "Hum To Tujhse Mohabbat Karte",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Hum To Tujhse Mohabbat Karte Barood 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Hum To Tujhse Mohabbat Karte.jpg"
+    },
+    {
+      "id": "68",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Humko Tumse Pyaar Hai",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Humko Tumse Pyaar Hai Humko Tumse Pyar Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Humko Tumse Pyaar Hai.jpg"
+    },
+    {
+      "id": "69",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Jaati Hoon Main",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Jaati Hoon Main Karan Arjun 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Yeh Bandhan Toh.jpg"
+    },
+    {
+      "id": "70",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Paas Woh Aane Lage",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Paas Woh Aane Lage Main Khiladi Tu Anari 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Main Khiladi Tu Anari.jpg"
+    },
+    {
+      "id": "71",
+      "singer_name": "Alka Yagnik, Udit Narayan",
+      "music_name": "Raja Ko Rani Se",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Raja Ko Rani Se Akele Hum Akele Tum 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Raja Ko Rani Se.jpg"
+    },
+    {
+      "id": "72",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Saajanji Ghar Aaye",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Saajanji Ghar Aaye Kuch Kuch Hota Hai 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Saajanji Ghar Aaye.jpg"
+    },
+    {
+      "id": "73",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Teri Chunnariya",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Teri Chunnariya - Hello Brother - Salman Khan - Rani Mukherjee - Kumar Sanu - Alka Yagnik.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Teri Chunnariya.jpg"
+    },
+    {
+      "id": "74",
+      "singer_name": "Alka Yagnik, Sonu Nigam",
+      "music_name": "Tujhko Hi Dulhan Banaonga",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tujhko Hi Dulhan Banaonga - Govinda, Rani Mukherji - Sonu Nigam, Alka Yagnik - Chalo Ishq Ladaaye.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tujhko Hi Dulhan Banaonga.jpg"
+    },
+    {
+      "id": "75",
+      "singer_name": "Kumar Sanu, Alka Yagnik",
+      "music_name": "Tum Toh Dhokhebaaz Ho",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tum Toh Dhokhebaaz Ho Saajan Chale Sasural 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tum%20Toh%20Dhokhebaaz%20Ho.jpg"
+    },
+    {
+      "id": "76",
+      "singer_name": "Alka Yagnik, Kumar Sanu",
+      "music_name": "Tumsa Koi Pyaara",
+      "music_url": "https://yash6292.github.io/hindi_old_songs_data/Tumsa Koi Pyaara Khuddar 320 Kbps.mp3",
+      "musicImage": "https://yash6292.github.io/hindi_old_songs_data/Tumsa Koi Pyaara.png"
+    }
+  ]
+}
