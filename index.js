@@ -2,7 +2,7 @@ const express = require("express");
 const fs = require("fs");
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 // Read the JSON file
 const rawData = fs.readFileSync(__dirname + "/" + "data.json");
@@ -42,10 +42,10 @@ function capitalizeEachWord(str) {
 
 app.get("/api/data/song/:song_name", (req, res) => {
   let songName = req.params.song_name;
-  
+
   // Capitalize the first letter of each word in the song name
   songName = capitalizeEachWord(songName);
-  console.log(songName)
+  console.log(songName);
   const items = data.data.filter((item) => item.music_name === songName);
 
   if (items.length > 0) {
