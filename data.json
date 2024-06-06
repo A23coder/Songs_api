@@ -538,6 +538,13 @@
       "music_name": "O mere",
       "music_url": "https://a23coder.github.io/my-music-data/music/o-mere.mp3",
       "musicImage": "https://a23coder.github.io/my-music-data/images/o-mere.png"
-  }
+  },
+  {
+    "id": "78",
+    "singer_name": "Lata Mangeshkar",
+    "music_name": "O mere dil ke Chain",
+    "music_url": "https://a23coder.github.io/my-music-data/music/Main-Sola.mp3",
+    "musicImage": "https://a23coder.github.io/my-music-data/images/o-mere.png"
+}
   ]
 }
